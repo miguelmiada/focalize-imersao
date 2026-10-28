@@ -1,0 +1,7 @@
+{
+  "name": "Focalize",
+  "description": "Gerenciador completo de objetivos de estudo com persistência local e Flow Mode (Pomodoro) integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
